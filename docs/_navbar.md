@@ -11,6 +11,7 @@
   * [研究生管理平台（IE打开）](http://gsgl.gzu.edu.cn/)
   * [图书馆](http://lib.gzu.edu.cn/)
   * [微软正版授权](https://msca.gzu.edu.cn/)
+  * [微软正版授权](210.40.56.82)
 
 * 友情链接
   * [DengGroup](https://www.denggroup.work/software.html)
